@@ -9,3 +9,8 @@
 ![Go: Passing](https://img.shields.io/badge/go-passing-lightblue?style=for-the-badge)
 ![Rust: Running](https://img.shields.io/badge/rust-running-lightgray?style=for-the-badge)
 ![Life: Failing](https://img.shields.io/badge/life-failing-red?style=for-the-badge)  
+
+## 📛 Positions
+- Server-Side Professional @ [YUMEMI Inc.](https://www.yumemi.co.jp/)
+- Technical Advisor @ [chot Inc.](https://chot-inc.com/)
+- Sole Proprietorship @ [s6n.jp](https://s6n.jp/)
