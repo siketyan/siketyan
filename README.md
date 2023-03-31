@@ -12,5 +12,4 @@
 
 ## 📛 Positions
 - Server-Side Professional @ [YUMEMI Inc.](https://www.yumemi.co.jp/)
-- Technical Advisor @ [chot Inc.](https://chot-inc.com/)
 - Sole Proprietorship @ [s6n.jp](https://s6n.jp/)
