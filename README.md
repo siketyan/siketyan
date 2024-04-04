@@ -11,5 +11,5 @@
 ![Life: Failing](https://img.shields.io/badge/life-failing-red?style=for-the-badge)  
 
 ## 📛 Positions
-- Server-Side Professional @ [YUMEMI Inc.](https://www.yumemi.co.jp/)
+- Cross Incubator @ [Bitkey Inc.](https://bitkey.co.jp/)
 - Sole Proprietorship @ [s6n.jp](https://s6n.jp/)
